@@ -49,7 +49,7 @@ I was responsible for designing and implementing Idiom 2, an interactive radar c
 
 This idiom supports both discovery (e.g., identifying unexpected patterns in title fights) and comparison (e.g., contrasting male vs. female outcome trends) across weight classes.
 
-For a full explanation of the design, data abstraction, task abstraction, and implementation, refer to the Idiom 2 section in report.pdf from page 13 to page 17.
+For a full explanation of the design, data abstraction, task abstraction, and implementation, refer to the Idiom 2 section in [report.pdf](https://github.com/25FAdam/Data-Visualization/blob/main/report.pdf) from page 13 to page 17.
 
 ## Requirements
 
