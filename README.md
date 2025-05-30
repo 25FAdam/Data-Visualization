@@ -1,6 +1,14 @@
 # UFC Fight Analytics - Interactive Visualization Tool
 
-(Data Visualization course - Project) 
+(Data Visualization course - Project)
+
+<ins>Authors:</ins>
+- Davis Siemens (Idiom 1)
+- Ádám Földvári (Idiom 2)
+- Máté Lukács (Idiom 3)
+- Inés Simón del Collado (Idiom 4)
+
+<ins>Instructor:</ins> Pablo Toharia
 
 This project was developed as part of the "Data Visualization" course at the Universidad Politécnica de Madrid (Master in Digital Innovation - EIT Digital). It presents an interactive Shiny web app for analyzing fight data from the Ultimate UFC Dataset.
 
